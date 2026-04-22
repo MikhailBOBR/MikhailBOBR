@@ -1,20 +1,24 @@
 <div align="center">
 
-# Михаил Кашпирев 👋  ОФОРМЛЕНИЕ ПРОФИЛЯ В ПРОЦЕССЕ СОЗДАНИЯ
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f2937,100:3b82f6&height=140&section=header"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Backend+Developer;Fullstack+Engineer;Java+%7C+Python+%7C+Node.js;Building+real+systems" />
+
+# Михаил Кашпирев 👋
 ### Backend / Fullstack Developer • Java • Python • Node.js
 
 <p>
-Создаю backend-системы и fullstack-приложения с упором на архитектуру, данные и практическую инженерную ценность
+Создаю backend-системы и fullstack-приложения с упором на архитектуру, данные и инженерную надежность
 </p>
 
 <a href="https://t.me/Mikhail_yourboss">
-  <img src="https://img.shields.io/badge/Telegram-Contact%20me-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Telegram-Contact-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
 <a href="mailto:imperiy05@mail.ru">
-  <img src="https://img.shields.io/badge/Email-imperiy05%40mail.ru-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=blueviolet" />
+<img src="https://komarev.com/ghpvc/?username=MikhailBOBR&style=for-the-badge&color=blueviolet" />
 
 </div>
 
@@ -25,9 +29,9 @@
 Студент 3 курса РТУ МИРЭА (Программная инженерия).  
 Фокус — разработка **backend-систем**, архитектура приложений и работа с данными.
 
-Мне интересно не просто писать код, а:
-- проектировать **понятные и устойчивые системы**
-- строить **чистую архитектуру**
+Мне важно:
+- строить **понятные и устойчивые системы**
+- проектировать **чистую архитектуру**
 - работать с **реальными сценариями, а не только CRUD**
 
 🚀 Ищу стажировку в сильной инженерной команде
@@ -46,12 +50,12 @@
 
 ## 🧠 Что я умею
 
-- Проектировать backend и REST API
-- Строить fullstack-приложения (backend + frontend)
-- Работать с БД (PostgreSQL, SQL)
-- Покрывать код тестами
-- Документировать API (Swagger / OpenAPI)
-- Подготавливать проекты к деплою (Docker, CI/CD)
+- Backend и REST API
+- Fullstack-приложения
+- Работа с БД (PostgreSQL, SQL)
+- Тестирование
+- Swagger / OpenAPI
+- Docker и CI/CD
 
 ---
 
@@ -62,69 +66,49 @@
 ## 🧩 EduTesting — платформа онлайн-тестирования
 **Django • DRF • REST API • Analytics**
 
-Система, закрывающая полный цикл:
-курс → тест → попытка → результат → аналитика
-
-**Что внутри:**
 - роли: студент / преподаватель / администратор  
-- аналитика по темам  
+- аналитика и контроль попыток  
 - апелляции и уведомления  
-- контроль подозрительных попыток  
-- REST API + Swagger + Postman  
+- REST API + Swagger  
 
-**Почему это сильный проект:**
-👉 не просто CRUD, а полноценная система с бизнес-логикой, аналитикой и безопасностью  
-
-**Масштаб:**
-- 17k+ строк кода  
-- сложность: 600+  
+👉 полноценная backend-система, а не CRUD  
+📦 17k+ строк кода  
 
 [📂 Repository](PASTE_LINK_HERE)
 
 ---
 
-## 🚗 PRCAR — веб-приложение автосалона
+## 🚗 PRCAR — автосалон
 **Next.js • TypeScript • PostgreSQL • Prisma**
 
-Fullstack-сервис с ролями и бизнес-логикой.
-
-**Что реализовано:**
-- каталог авто + фильтрация  
-- заявки  
+- каталог авто  
 - роли CLIENT / MANAGER / ADMIN  
-- личные кабинеты  
+- заявки и кабинеты  
 
-**Почему это сильный проект:**
-👉 показывает работу с реальным fullstack-стеком и структурой проекта  
+👉 production-like fullstack  
 
 [📂 Repository](PASTE_LINK_HERE)
 
 ---
 
 ## 🥗 Дневник питания (КБЖУ)
-**Node.js • Express • JWT • Docker • CI/CD**
+**Node.js • Express • JWT • Docker**
 
-Fullstack-приложение для анализа питания.
-
-**Что внутри:**
-- цели и аналитика  
-- dashboard и weekly trends  
-- meal planner и shopping board  
+- аналитика и dashboard  
+- meal planner и tracking  
 - роли + авторизация  
-- Swagger + API тесты  
 
-**Почему это сильный проект:**
-👉 продуктовый уровень логики и много пользовательских сценариев  
+👉 продуктовый fullstack  
 
 [📂 Repository](PASTE_LINK_HERE)
 
 ---
 
 ## 🍽️ Планировщик меню
-**Java • Spring Boot • REST**
+**Java • Spring Boot**
 
-- архитектура: Controller → Service → Repository  
-- тесты: JUnit + MockMvc  
+- чистая архитектура  
+- тесты  
 
 👉 strong backend база  
 
@@ -133,27 +117,27 @@ Fullstack-приложение для анализа питания.
 ---
 
 ## 🌍 Планировщик путешествий
-**Python • Flask • Fullstack**
+**Python • Flask**
 
-👉 демонстрирует клиент-серверную разработку  
+👉 fullstack практика  
 
 [📂 Repository](PASTE_LINK_HERE)
 
 ---
 
-## 🧠 ML: прогноз риска
+## 🧠 ML проект
 **Python • scikit-learn**
 
-👉 обработка данных и ML pipeline  
+👉 работа с данными  
 
 [📂 Repository](PASTE_LINK_HERE)
 
 ---
 
-## 🧮 Нейросеть на C++
-**C++ • Algorithms**
+## 🧮 Нейросеть (C++)
+**Algorithms**
 
-👉 реализация нейросети с нуля  
+👉 реализация с нуля  
 
 [📂 Repository](PASTE_LINK_HERE)
 
@@ -161,18 +145,18 @@ Fullstack-приложение для анализа питания.
 
 ## 🏆 Достижения
 
-- Финалист хакатона **«Цифровой суверенитет 3.0»**
+- Финалист **«Цифровой суверенитет 3.0»**
 - Яндекс Практикум (Frontend / Backend)
-- Английский: B1
+- Английский B1
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=MikhailBOBR&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikhailBOBR&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=MikhailBOBR&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikhailBOBR&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -184,11 +168,21 @@ Fullstack-приложение для анализа питания.
 
 ---
 
-## 📈 Activity Graph
+## 📈 Activity
 
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=MikhailBOBR&theme=tokyo-night&hide_border=true" />
+
+</div>
+
+---
+
+## ⚡ Metrics
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MikhailBOBR&theme=tokyonight" />
 
 </div>
 
@@ -204,5 +198,7 @@ Fullstack-приложение для анализа питания.
 <div align="center">
 
 ### Backend • Fullstack • Architecture • Data
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f2937,100:3b82f6&height=120&section=footer"/>
 
 </div>
