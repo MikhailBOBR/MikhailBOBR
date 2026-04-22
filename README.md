@@ -1,3 +1,6 @@
+# ПРОФИЛЬ В ПРОЦЕССЕ ОФОРМЛЕНИЯ (ИНФОРМАЦИЯ НЕ ПОЛНАЯ)
+
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f2937,100:3b82f6&height=140&section=header"/>
