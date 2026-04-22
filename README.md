@@ -188,7 +188,6 @@
 
 <div align="center">
 
-### Backend • Fullstack • Architecture • Data • Analytics • Business Analysis • Product Thinking • ML
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f2937,100:3b82f6&height=130&section=footer"/>
 
