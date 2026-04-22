@@ -184,7 +184,6 @@
 - Telegram: [@Mikhail_yourboss](https://t.me/Mikhail_yourboss)
 - Email: [imperiy05@mail.ru](mailto:imperiy05@mail.ru)
 
----
 
 <div align="center">
 
