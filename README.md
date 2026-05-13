@@ -18,9 +18,6 @@
 <a href="mailto:imperiy05@mail.ru">
   <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://github.com/MikhailBOBR">
-  <img src="https://img.shields.io/badge/GitHub-MikhailBOBR-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
 <img src="https://komarev.com/ghpvc/?username=MikhailBOBR&style=for-the-badge&color=blueviolet" />
 
 </div>
